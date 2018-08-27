@@ -1,3 +1,4 @@
 https://www.fuzzysecurity.com/tutorials/expDev/14.html
-
 https://www.abatchy.com/2018/01/kernel-exploitation-1
+
+pykd: https://githomelab.ru/pykd/
