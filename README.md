@@ -5,7 +5,7 @@
 - http://infosecflash.com/2018/11/04/my-awe-experience/
 - https://trickster0.wordpress.com/2018/10/27/awe-course-review-by-offensive-security/
 
-## Extra Mile - Exploit:
+## Extra Mile - Exploit
 
 ### Avast! 4.7 - 'aavmker4.sys' Local Privilege Escalation<br/>
 - AWE v2.0 Module 0x5<br/>
