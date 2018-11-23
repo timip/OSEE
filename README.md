@@ -15,5 +15,10 @@
 - https://www.offensive-security.com/vulndev/ms11-080-voyage-into-ring-zero/
 - https://www.exploit-db.com/exploits/18176/
 
+### Microsoft Windows 8.0/8.1 (x64) - 'TrackPopupMenu' Local Privilege Escalation (MS14-058)
+https://blog.trendmicro.com/trendlabs-security-intelligence/an-analysis-of-a-windows-kernel-mode-vulnerability-cve-2014-4113/
+https://dl.packetstormsecurity.net/papers/attack/CVE-2014-4113.pdf
+https://www.exploit-db.com/exploits/37064/
+
 ### HackSys Extreme Vulnerable Driver (HEVD)<br/>
 - https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
