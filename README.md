@@ -4,6 +4,7 @@
 - https://addaxsoft.com/blog/offensive-security-advanced-windows-exploitation-awe-osee-review/
 - http://infosecflash.com/2018/11/04/my-awe-experience/
 - https://trickster0.wordpress.com/2018/10/27/awe-course-review-by-offensive-security/
+- https://www.jouiseonin.com/cyber/blogpage/Offensive-Security-Exploitation-Expert-%28OSEE%29
 
 ## Extra Mile - Exploit
 
