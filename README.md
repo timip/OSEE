@@ -32,8 +32,8 @@ Exploit writing tutorial part 10 : Chaining DEP with ROP – the Rubik’s Cube<
 Morten Schenk - Back to Basics or Bypassing Control Flow Guard with Structured Exception Handler<br/>
 - https://improsec.com/tech-blog/back-to-basics-or-bypassing-control-flow-guard-with-structured-exception-handler
 
-
-https://www.offensive-security.com/vulndev/disarming-and-bypassing-emet-5-1/
+Disarming and Bypassing EMET 5.1<br/>
+- https://www.offensive-security.com/vulndev/disarming-and-bypassing-emet-5-1/
 
 ### Module 0x03 64-bit Kernel Driver Exploitation
 Morten Schenk - Taking Windows 10 Kernel Exploitation to the next level<br/>
