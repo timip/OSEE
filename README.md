@@ -9,15 +9,31 @@
 ## Public Reference Materials by Module
 
 ### Module 0x01 DEP/ASLR Bypass and Sandbox Escape via Flash Heap Overflow
+
 pykd<br/>
 - https://githomelab.ru/pykd/
+
+Fldbg, a Pykd script to debug FlashPlayer<br/>
+- https://www.offensive-security.com/vulndev/fldbg-a-pykd-script-to-debug-flashplayer/
+
+Windbg Tutorial<br/>
+- https://www.youtube.com/watch?v=8zBpqc3HkSE
+
+Windbg Cheat Sheet<br/>
+- http://windbg.info/doc/1-common-cmds.html
 
 Discover Flash Player Zero-day Attacks In The Wild From Big Data by Peter Pi<br/>
 - http://hitcon.org/2015/CMT/download/day1-a-r0.pdf
 
+Exploit writing tutorial part 10 : Chaining DEP with ROP – the Rubik’s Cube<br/>
+- https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/
+
 ### Module 0x02 CFG/ACG Bypass and Sandbox Escape via Microsoft Edge Type Confusion
 Morten Schenk - Back to Basics or Bypassing Control Flow Guard with Structured Exception Handler<br/>
 - https://improsec.com/tech-blog/back-to-basics-or-bypassing-control-flow-guard-with-structured-exception-handler
+
+
+https://www.offensive-security.com/vulndev/disarming-and-bypassing-emet-5-1/
 
 ### Module 0x03 64-bit Kernel Driver Exploitation
 Morten Schenk - Taking Windows 10 Kernel Exploitation to the next level<br/>
