@@ -6,6 +6,32 @@
 - https://trickster0.wordpress.com/2018/10/27/awe-course-review-by-offensive-security/
 - https://www.jscybersec.io/blogpage/Offensive-Security-Exploitation-Expert-OSEE
 
+## Public Reference Materials by Module
+
+### Module 0x01 DEP/ASLR Bypass and Sandbox Escape via Flash Heap Overflow
+pykd<br/>
+- https://githomelab.ru/pykd/
+
+Discover Flash Player Zero-day Attacks In The Wild From Big Data by Peter Pi<br/>
+- http://hitcon.org/2015/CMT/download/day1-a-r0.pdf
+
+### Module 0x02 CFG/ACG Bypass and Sandbox Escape via Microsoft Edge Type Confusion
+Morten Schenk - Back to Basics or Bypassing Control Flow Guard with Structured Exception Handler<br/>
+- https://improsec.com/tech-blog/back-to-basics-or-bypassing-control-flow-guard-with-structured-exception-handler
+
+### Module 0x03 64-bit Kernel Driver Exploitation
+Morten Schenk - Taking Windows 10 Kernel Exploitation to the next level<br/>
+- https://www.youtube.com/watch?v=Gu_5kkErQ6Y
+- https://www.youtube.com/watch?v=IxEKcB5Bvbg
+- https://www.blackhat.com/docs/us-17/wednesday/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update.pdf
+- https://www.blackhat.com/docs/us-17/wednesday/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf
+
+Morten Schenk - Windows Kernel Shellcode on Windows 10<br/>
+- https://improsec.com/tech-blog/windows-kernel-shellcode-on-windows-10-part-1
+- https://improsec.com/tech-blog/windows-kernel-shellcode-on-windows-10-part-2
+- https://improsec.com/tech-blog/windows-kernel-shellcode-on-windows-10-part-3
+- https://improsec.com/tech-blog/windows-kernel-shellcode-on-windows-10-part-4-there-is-no-code
+
 ## Extra Mile - Exploit
 
 ### Avast! 4.7 - 'aavmker4.sys' Local Privilege Escalation<br/>
